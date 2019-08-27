@@ -1,0 +1,13 @@
+simple program to encrypt and decrypt a text file
+
+usage:
+
+compile and creat the executanle file for instance cryption.exe
+
+for encryption
+cryption.exe -e password file_name
+
+for decryption
+cryption.exe -d password file_name
+
+the password is a integer that can not be bigger than 10000000
